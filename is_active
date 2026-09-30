@@ -1,0 +1,1 @@
+"ID: {$user->id} | Nama: {$user->name} | Email: {$user->email} | Role: {$user->role} | Status: " . ($user- ? 'Aktif' : 'Nonaktif') . "\n";
